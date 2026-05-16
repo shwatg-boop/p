@@ -1,0 +1,11 @@
+Himalayan Microlots mobile-responsive update
+
+Upload the extracted contents of this ZIP to the same GitHub repository/root as before.
+Do not create a separate mobile folder. GitHub Pages will use the same link and CSS media queries will adapt the site for phones/tablets.
+
+Updated:
+- responsive layouts for all pages
+- mobile hamburger menu
+- mobile product grids and order form
+- lighter mobile background animations
+- preserved existing content, details, images, and page structure
